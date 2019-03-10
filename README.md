@@ -1,6 +1,6 @@
 # Eddie from Maiden Clicky Game
 
-Heroku link: 
+Heroku link: https://garrett-eddie-app.herokuapp.com/
 
 ------
 
